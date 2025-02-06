@@ -187,7 +187,7 @@ oss:
 publications:
   title: Publicaciones
   intro: |
-   Lista de publicaciones:
+   Lista de publicaciones que he leido:
   papers:
   - title: The Art of Computer Programming
     link: "#"
@@ -209,18 +209,18 @@ recommendations:
   list:
   - person: Yareli Perez
     email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
+    phone: 698 09 45 63
+    role: Director general
     recommendation: |
-      Alan Doe is a super employee!
+      Jordi wild es un super empleado!
   - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
+    email: larah@gmail.com
+    phone: 621 34 56 90
+    role: Director General 
     recommendation: |
-      I would like to work with Alan Doe again!
+      Espero volver a trabajar con Jordi wild otra vez!
 
-      He is a great employee!
+      El es un buen empleado!
 
 skills:
   title: Skills &amp; Proficiency
