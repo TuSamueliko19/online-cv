@@ -180,9 +180,9 @@ oss:
     link: "#"
     tagline: "Contribuí al desarrollo y mantenimiento de recursos educativos en el proyecto de código abierto "
 
-  - title: Delta
+  - title: Expressjs
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "Realicé mejoras en la biblioteca de Node.js"
 
 publications:
   title: Publications
