@@ -168,7 +168,7 @@ projects:
     link: "#"
     tagline: "Diseñe una aplicacion capaz de recomendar productos de las tiendas mas baratas."
 oss:
-  title: OSS Contributions
+  title: OSS Contribuciones
   intro: >
     You Lista de contribuciones.
   contributions:
@@ -185,11 +185,9 @@ oss:
     tagline: "Realicé mejoras en la biblioteca de Node.js"
 
 publications:
-  title: Publications
+  title: Publicaciones
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+   Lista de publicaciones:
   papers:
   - title: The Art of Computer Programming
     link: "#"
@@ -207,7 +205,7 @@ publications:
     conference: "Comm. ACM 4 (1961), 51–55"
 
 recommendations:
-  title: Recommendations
+  title: Recomendaciones
   list:
   - person: Yareli Perez
     email: perezyareli@example.com
