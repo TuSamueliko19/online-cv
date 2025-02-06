@@ -172,13 +172,13 @@ oss:
   intro: >
     You Lista de contribuciones.
   contributions:
-  - title: hf
+  - title: WordPress
     link: "#"
-    tagline: "gfhfhthhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+    tagline: "Creé un plugin para WordPress que permite a los administradores del sitio gestionar automáticamente los redireccionamientos de URL."
 
-  - title: Atom
+  - title: FreeCodeCamp
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: "Contribuí al desarrollo y mantenimiento de recursos educativos en el proyecto de código abierto "
 
   - title: Delta
     link: "#"
