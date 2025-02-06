@@ -8,24 +8,24 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: jordiwild
+  tagline: Full Stack 
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
+  email: Jordiwild@gmail.com
+  phone: 657 89 06 78 
+  timezone: Europa/España # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: Barcelona
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  linkedin: jordiwild
+  xing: jordiwild
+  github: TuSamueliko19
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: '@jordiwild.bsky.social' # Specify your full Bluesky handle
+  twitter: '@jordiwild'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -35,56 +35,50 @@ sidebar:
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
-    title: Languages
+    title: Lenguajes
     info:
-    - idiom: English
-      level: Native
+    - idiom: Ingles
+      level: Profesional
 
-    - idiom: French
-      level: Professional
+    - idiom: Frances
+      level: Profesional
 
-    - idiom: Spanish
-      level: Professional
+    - idiom: Español
+      level: Nativo
 
   interests:
-    title: Interests
+    title: Interesantes
     info:
-    - item: Climbing
+    - item: Cocino
       link:
 
 
-    - item: Snowboarding
+    - item: Psicologo
       link:
 
 
-    - item: Cooking
+    - item: Creador de podcast
       link:
 
 
 career-profile:
-  title: Career Profile
+  title: Perfil profesional
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+   Soy un programador apasionado con más de 8 años de experiencia en desarrollo de software, especializado en aplicaciones web y móviles. 
+   Me considero una persona creativa, orientada a resultados y con gran capacidad para aprender nuevas tecnologías. A lo largo de mi carrera
+   he trabajado con equipos multidisciplinarios y he logrado implementar soluciones tecnológicas innovadoras para diversas empresas,
+   mejorando la eficiencia y la experiencia del usuario.
 education:
-  title: Education
+  title: Educacion
   info:
-  - degree: MSc in Computer Science
+  - degree: Máster en Desarrollo de Software Avanzado
     university: University of London
     time: 2011 - 2012
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
+      Especialización en inteligencia artificial y arquitectura de software.
+ 
+        
+  - degree: Grado en Ingeniería Informática
     university: Bristol University
     time: 2007 - 2011
     details: |
@@ -97,45 +91,29 @@ education:
         - Bullet point
 
 experiences:
-  title: Experiences
+  title: Experiencias
   info:
-  - role: Lead Developer
+  - role: Desarrollador Senior - TechSolutions S.A.
     time: 2015 - Present
     company: Startup Hubs, San Francisco
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
+      Lideré el equipo de desarrollo en la creación de una plataforma SaaS escalable utilizada por más de 200,000 usuarios activos.
+      Implementé soluciones de microservicios utilizando Node.js, Docker y Kubernetes.
+      Diseñé y optimicé bases de datos SQL y NoSQL (MySQL, MongoDB), mejorando la eficiencia de las consultas en un 30%.
+
+  - role: Desarrollador Backend - InnoTech Solutions
     time: 2014 - 2015
     company: Google, London
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
+     Desarrollé y mantuve servicios backend utilizando Python y Django, gestionando más de 100,000 transacciones diarias.
+     Implementé APIs RESTful seguras y escalables, facilitando la integración con aplicaciones móviles y servicios de terceros.
+     
+  - role: Programador Junior - SoftWare Innovators
     time: 2012 - 2014
     company: Amazon, London
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Desarrollé y mantuve aplicaciones web usando JavaScript, HTML, CSS, y React.
+      Trabajé en la integración de pagos en línea y servicios de notificación en tiempo real para aplicaciones de comercio electrónico.
 
 certifications:
   title: Certifications
@@ -148,19 +126,12 @@ certifications:
     credentialurl: www.google.com
     credentialname: Google
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+     Uso de plataformas como Canva, Novoresume, Zety y Resume.io para diseñar y personalizar currículums profesionales,
+     mejorando la presentación visual y la estructura de la información.
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
+
+     Capacidad para generar currículums adaptados a distintos perfiles profesionales y plantillas visualmente atractivas,
+     optimizando la legibilidad y el impacto visual para reclutadores.
   - name: Git learning
     start: 2019
     end:
@@ -169,40 +140,33 @@ certifications:
     credentialurl: www.github.com
     credentialname: Github
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
+     Curso completo sobre el uso de Git y GitHub para la gestión de proyectos de software. Incluye trabajo en ramas, control de versiones distribuido,
+       gestión de conflictos y flujos de trabajo colaborativos.
+       Aprendí a crear repositorios remotos, usar herramientas como GitHub Pages, y optimizar los procesos de integración continua.
 projects:
-  title: Projects
+  title: Proyectos
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Aqui hay una lista con los proyectos realizados.
   assignments:
-  - title: Velocity
+  - title: Taskify
     link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    tagline: "plicación web de gestión de tareas colaborativas usando React.js para el frontend y Node.js con Express para el backend."
 
-  - title: DevStudio
+  - title: MovieMatch
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "Desarrollé una aplicación móvil utilizando React Native para que los usuarios pudieran obtener recomendaciones personalizadas de películas."
 
-  - title: Tempo
+  - title: ReserveIt
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "Diseñé y desarrollé un sistema de reservas en línea para restaurantes utilizando Vue.js para el frontend y Laravel para el backend."
 
-  - title: Atom
+  - title: HealthTrack
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: "Creé una aplicación móvil para iOS y Android que permite a los usuarios realizar un seguimiento de sus hábitos de salud, como ejercicio, dieta y sueño."
 
-  - title: Delta
+  - title: ShopNow
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+    tagline: "Diseñe una aplicacion capaz de recomendar productos de las tiendas mas baratas."
 oss:
   title: OSS Contributions
   intro: >
