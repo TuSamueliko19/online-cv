@@ -223,7 +223,7 @@ recommendations:
       El es un buen empleado!
 
 skills:
-  title: Skills &amp; Proficiency
+  title: Habilidades
 
   toolset:
   - name: Python & Django
